@@ -20,7 +20,7 @@ This Excel project analyses coffee sales data to provide insights into product p
 - Added the units to the numbers by formatting them, like “kg” to the size and “$” to the price column. 
 - Combine important columns from the three tables into one sheet. Creating a unified dataset makes easy to work with.
 - Using XLOOKUP function to combine customer data (Customer name, email, country) from customer table into the orders table.
-- Using INDEX MATCH to retrieve product data, which refers to coffee type, roast type, size, and unit price and insert into orders table.
+- Using INDEX MATCH function to retrieve product data, which refers to coffee type, roast type, size, and unit price and insert into orders table.
 - To calculate the sales, simply multiplied the columns “quantity” and “unit price”.
 - By using IF function, standardized short-form names to full names to make the data more understandable, like changing “Rob” to “Robusta”.
 - Important step was to turn the dataset into a table format, which makes it easier to classify and filter data, and is also useful when using pivot tables, as it is possible to refresh the pivot tables and new columns show up automatically.
