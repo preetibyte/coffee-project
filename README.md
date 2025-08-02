@@ -33,5 +33,16 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 Below is a snapshot of the final dashboard.
 <img width="1158" height="597" alt="coffee Sales Dashboard" src="https://github.com/user-attachments/assets/12a6c3ab-96d1-421a-8c52-ff431926119f" />
 
+## Insights
+-	Allis, Brenn, Terri, Nealson and Don are the customers who spent the most money on coffee.
+-	Customers spent the most money on medium and light roast coffee.
+-	Customers with a loyalty card spent less money on coffee. This might suggest loyalty cards are not so relevant.
+-	The United States appears to be a good country for selling the coffee, as sales are much higher than in the other countries, for all roast types and sizes. 
+-	Regarding the size, the most popular seems to be 2.5kg.
+-	Arabica was very popular in 2020 and 2021, but its sales decreased significantly in 2022. Excelsa stands out throughout the whole time period, reaching high peaks in sales.
 
+## What I Learned
+-	Designing dynamic dashboards to summarize sales data.
+-	Extracting actionable insights using line and bar charts.
+-	Structuring and organizing data for improved analysis.
 
