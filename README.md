@@ -1,4 +1,4 @@
-# Coffee Sales Project
+# Coffee Sales Analysis Excel Project
 
 ## Project overview
 This Excel project analyses coffee sales data to provide insights into product performance, sales trends, total sales over time, sales by country and other actionable business insights. It includes data cleaning, formula features, pivot tables, charts, and an interactive dashboard to help stakeholders make informed decisions.
