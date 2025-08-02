@@ -41,8 +41,3 @@ Below is a snapshot of the final dashboard.
 -	Regarding the size, the most popular seems to be 2.5kg.
 -	Arabica was very popular in 2020 and 2021, but its sales decreased significantly in 2022. Excelsa stands out throughout the whole time period, reaching high peaks in sales.
 
-## What I Learned
--	Designing dynamic dashboards to summarize sales data.
--	Extracting actionable insights using line and bar charts.
--	Structuring and organizing data for improved analysis.
-
