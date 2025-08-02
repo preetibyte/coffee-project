@@ -8,7 +8,7 @@ This Excel project analyses coffee sales data to provide insights into product p
 - This dataset had three key tables:
   1. Orders     
   2. Customers    
-  3. Products
+  3. Products        
 These tables contained all the details about the coffee shop’s sales transactions, customer info, and product specifics.
 
 
